@@ -11,7 +11,7 @@ last_modified_at: 2019-04-13T08:06:00-05:00
 # 이한나 22100595
 #### 코딩하는 거북이
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS23eSJ39KoPrmMnEprcqNom2_PoZoIBF6vDg&usqp=CAU" width="100" height="100">
-<u>코딩</u>하면서 듣기 좋은 노래 추천
+<b>코딩</b>하면서 듣기 좋은 노래 추천
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xc1Le3CSdrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
