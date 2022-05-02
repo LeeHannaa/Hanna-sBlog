@@ -1,7 +1,8 @@
 ## Welcome to 한나 Blog
 
-```한나의 블로그
-## 오늘도 좋은 하루 되세요
+```
+한나의 블로그
+## 오늘도 좋은 하루 되세요❤️
 ```
 ### 접속하고 싶다면 눌러보세요. 
 [post](https://github.com/LeeHannaa/LeeHannaa.github.io/blob/main/_posts/post.md)
